@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptime": "96.50%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "96.50%",
+    "uptimeYear": "96.50%",
     "time": 4470,
     "timeDay": 5275,
     "timeWeek": 4470,
     "timeMonth": 4470,
     "timeYear": 4470,
     "dailyMinutesDown": {
-      "2024-06-23": 0,
+      "2024-06-23": 96,
       "2024-06-21": 16
     }
   }
