@@ -6,8 +6,8 @@
     "slug": "ha",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.18%",
     "time": 3292,
@@ -16,7 +16,6 @@
     "timeMonth": 2460,
     "timeYear": 3292,
     "dailyMinutesDown": {
-      "2024-08-11": 2,
       "2024-08-02": 127,
       "2024-07-23": 42,
       "2024-07-15": 35,
