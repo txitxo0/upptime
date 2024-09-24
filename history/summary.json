@@ -4,7 +4,7 @@
     "url": "$HA_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha",
-    "status": "up",
+    "status": "down",
     "uptime": "97.86%",
     "uptimeDay": "55.12%",
     "uptimeWeek": "88.55%",
