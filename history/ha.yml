@@ -1,7 +1,7 @@
 url: $HA_SERVER
 status: up
 code: 200
-responseTime: 682
-lastUpdated: 2024-12-13T23:15:09.729Z
+responseTime: 330
+lastUpdated: 2024-12-14T23:14:18.371Z
 startTime: 2024-06-20T20:09:57.662Z
 generator: Upptime <https://github.com/upptime/upptime>
