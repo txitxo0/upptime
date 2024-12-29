@@ -4,18 +4,19 @@
     "url": "$HA_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha",
-    "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "98.55%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "98.53%",
+    "uptimeYear": "98.55%",
     "time": 3310,
-    "timeDay": 568,
+    "timeDay": 572,
     "timeWeek": 2313,
     "timeMonth": 1785,
     "timeYear": 3310,
     "dailyMinutesDown": {
+      "2024-12-29": 0,
       "2024-12-28": 21,
       "2024-12-21": 21,
       "2024-12-19": 27,
@@ -57,7 +58,7 @@
       "2024-08-17": 35,
       "2024-08-16": 54,
       "2024-08-12": 34,
-      "2024-08-02": 127
+      "2024-08-02": 91
     }
   }
 ]
