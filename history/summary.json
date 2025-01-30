@@ -6,17 +6,16 @@
     "slug": "ha",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "98.75%",
-    "time": 3266,
-    "timeDay": 2287,
-    "timeWeek": 2728,
-    "timeMonth": 2909,
-    "timeYear": 3266,
+    "time": 3277,
+    "timeDay": 6325,
+    "timeWeek": 3068,
+    "timeMonth": 3111,
+    "timeYear": 3277,
     "dailyMinutesDown": {
-      "2025-01-29": 8,
       "2025-01-27": 18,
       "2025-01-21": 68,
       "2025-01-13": 48,
@@ -57,7 +56,8 @@
       "2024-09-04": 17,
       "2024-09-03": 22,
       "2024-09-02": 19,
-      "2024-08-29": 18
+      "2024-08-29": 18,
+      "2024-08-21": 23
     }
   }
 ]
