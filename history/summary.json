@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha",
     "status": "up",
-    "uptime": "91.44%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.48%",
+    "uptime": "91.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "97.51%",
     "uptimeYear": "89.69%",
-    "time": 3368,
-    "timeDay": 6465,
-    "timeWeek": 4861,
-    "timeMonth": 5289,
-    "timeYear": 3361,
+    "time": 3369,
+    "timeDay": 4028,
+    "timeWeek": 4663,
+    "timeMonth": 5349,
+    "timeYear": 3370,
     "dailyMinutesDown": {
-      "2025-09-03": 12,
       "2025-09-02": 25,
       "2025-08-31": 24,
       "2025-08-29": 173,
@@ -103,7 +102,8 @@
       "2024-12-21": 21,
       "2024-12-19": 27,
       "2024-12-06": 43,
-      "2024-12-02": 45
+      "2024-12-02": 45,
+      "2024-11-27": 20
     }
   }
 ]
