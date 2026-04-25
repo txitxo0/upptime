@@ -130,19 +130,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headscale",
     "status": "up",
-    "uptime": "6.06%",
-    "uptimeDay": "6.06%",
-    "uptimeWeek": "6.06%",
-    "uptimeMonth": "6.06%",
-    "uptimeYear": "6.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 979,
     "timeDay": 979,
     "timeWeek": 979,
     "timeMonth": 979,
     "timeYear": 979,
-    "dailyMinutesDown": {
-      "2026-04-25": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "headscale_status",
