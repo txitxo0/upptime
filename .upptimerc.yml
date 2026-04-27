@@ -7,6 +7,8 @@ sites:
     url: $HA_SERVER
   - name: headscale_status
     url: $HEADSCALE_STATUS_URL
+  - name: headscale
+    url: $HEADSCALE_URL
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
