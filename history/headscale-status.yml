@@ -1,7 +1,7 @@
 url: $HEADSCALE_STATUS_URL
 status: up
 code: 200
-responseTime: 539
-lastUpdated: 2026-04-27T10:41:52.972Z
+responseTime: 442
+lastUpdated: 2026-04-27T23:51:11.104Z
 startTime: 2026-04-25T21:31:07.118Z
 generator: Upptime <https://github.com/upptime/upptime>
