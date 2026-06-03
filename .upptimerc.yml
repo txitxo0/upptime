@@ -13,6 +13,7 @@ sites:
     url: $HEADPLANE
     expectedStatusCodes:
       - 200
+      - 301
       - 302
       - 307
       - 308
