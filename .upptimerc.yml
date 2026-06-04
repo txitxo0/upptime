@@ -24,6 +24,8 @@ sites:
       - 302
   - name: immich
     url: $IMMICH
+  - name: monitor
+    url: $BESZEL
 
 assignees:
   - txitxo0
