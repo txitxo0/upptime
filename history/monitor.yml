@@ -1,7 +1,7 @@
 url: $BESZEL
-status: down
-code: 404
-responseTime: 317
-lastUpdated: 2026-06-04T09:54:36.727Z
+status: up
+code: 200
+responseTime: 1203
+lastUpdated: 2026-06-04T11:08:59.979Z
 startTime: 2026-06-04T09:54:23.696Z
 generator: Upptime <https://github.com/upptime/upptime>
