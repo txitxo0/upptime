@@ -22,19 +22,19 @@
     "url": "$HA_PANGOLIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha-pangolin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 557,
     "timeDay": 568,
     "timeWeek": 557,
     "timeMonth": 557,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2026-06-07": 0
+      "2026-06-07": 5
     }
   },
   {
@@ -45,7 +45,7 @@
     "status": "up",
     "uptime": "64.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "54.51%",
+    "uptimeWeek": "54.57%",
     "uptimeMonth": "56.75%",
     "uptimeYear": "64.20%",
     "time": 451,
@@ -78,9 +78,9 @@
     "url": "$HEADPLANE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headplane",
-    "status": "up",
+    "status": "down",
     "uptime": "93.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "93.74%",
     "uptimeMonth": "93.74%",
     "uptimeYear": "93.74%",
@@ -90,7 +90,8 @@
     "timeMonth": 519,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2026-06-03": 344
+      "2026-06-03": 344,
+      "2026-06-07": 0
     }
   },
   {
@@ -136,19 +137,20 @@
     "url": "$BESZEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.29%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "98.29%",
-    "time": 1077,
-    "timeDay": 1058,
-    "timeWeek": 1077,
-    "timeMonth": 1077,
-    "timeYear": 1077,
+    "time": 1074,
+    "timeDay": 1052,
+    "timeWeek": 1074,
+    "timeMonth": 1074,
+    "timeYear": 1074,
     "dailyMinutesDown": {
-      "2026-06-04": 74
+      "2026-06-04": 74,
+      "2026-06-07": 0
     }
   }
 ]
