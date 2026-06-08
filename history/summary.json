@@ -22,19 +22,19 @@
     "url": "$HA_PANGOLIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha-pangolin",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 549,
-    "timeDay": 518,
+    "timeDay": 520,
     "timeWeek": 549,
     "timeMonth": 549,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2026-06-08": 2
+      "2026-06-08": 5
     }
   },
   {
@@ -45,7 +45,7 @@
     "status": "up",
     "uptime": "64.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.78%",
+    "uptimeWeek": "66.82%",
     "uptimeMonth": "56.75%",
     "uptimeYear": "64.93%",
     "time": 453,
@@ -79,19 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headplane",
     "status": "up",
-    "uptime": "94.87%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "94.87%",
-    "uptimeMonth": "94.87%",
-    "uptimeYear": "94.87%",
+    "uptime": "94.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "94.89%",
+    "uptimeYear": "94.89%",
     "time": 518,
     "timeDay": 512,
     "timeWeek": 518,
     "timeMonth": 518,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2026-06-03": 344,
-      "2026-06-08": 1
+      "2026-06-03": 344
     }
   },
   {
@@ -138,19 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
     "time": 1074,
     "timeDay": 1064,
     "timeWeek": 1074,
     "timeMonth": 1074,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2026-06-04": 74,
-      "2026-06-08": 1
+      "2026-06-04": 74
     }
   }
 ]
