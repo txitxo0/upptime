@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha-pangolin",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.77%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 580,
     "timeDay": 666,
     "timeWeek": 580,
     "timeMonth": 580,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2026-06-09": 25
+      "2026-06-09": 20
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headscale",
     "status": "up",
-    "uptime": "66.07%",
+    "uptime": "66.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.91%",
+    "uptimeWeek": "86.95%",
     "uptimeMonth": "56.75%",
-    "uptimeYear": "66.07%",
+    "uptimeYear": "66.08%",
     "time": 451,
     "timeDay": 389,
     "timeWeek": 480,
@@ -78,19 +78,20 @@
     "url": "$HEADPLANE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headplane",
-    "status": "up",
+    "status": "down",
     "uptime": "96.07%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "96.07%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "96.07%",
     "time": 507,
-    "timeDay": 468,
+    "timeDay": 466,
     "timeWeek": 507,
     "timeMonth": 507,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2026-06-03": 344
+      "2026-06-03": 344,
+      "2026-06-09": 0
     }
   },
   {
@@ -136,19 +137,20 @@
     "url": "$BESZEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.02%",
-    "time": 1074,
-    "timeDay": 1039,
-    "timeWeek": 1074,
-    "timeMonth": 1074,
-    "timeYear": 1074,
+    "time": 1071,
+    "timeDay": 1026,
+    "timeWeek": 1071,
+    "timeMonth": 1071,
+    "timeYear": 1071,
     "dailyMinutesDown": {
-      "2026-06-04": 74
+      "2026-06-04": 74,
+      "2026-06-09": 0
     }
   }
 ]
