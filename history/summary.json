@@ -22,17 +22,17 @@
     "url": "$HA_PANGOLIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha-pangolin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "98.62%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 580,
-    "timeDay": 663,
-    "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "time": 579,
+    "timeDay": 659,
+    "timeWeek": 579,
+    "timeMonth": 579,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2026-06-09": 20
     }
@@ -45,7 +45,7 @@
     "status": "up",
     "uptime": "66.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.85%",
+    "uptimeWeek": "87.90%",
     "uptimeMonth": "56.75%",
     "uptimeYear": "66.13%",
     "time": 451,
@@ -79,19 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headplane",
     "status": "up",
-    "uptime": "96.06%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "96.06%",
-    "uptimeMonth": "96.06%",
-    "uptimeYear": "96.06%",
+    "uptime": "96.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 507,
     "timeDay": 471,
     "timeWeek": 507,
     "timeMonth": 507,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2026-06-03": 344,
-      "2026-06-09": 5
+      "2026-06-03": 344
     }
   },
   {
@@ -138,19 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor",
     "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.98%",
+    "uptime": "99.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 1072,
     "timeDay": 1029,
     "timeWeek": 1072,
     "timeMonth": 1072,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2026-06-04": 74,
-      "2026-06-09": 4
+      "2026-06-04": 74
     }
   }
 ]
