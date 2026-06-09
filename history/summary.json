@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha-pangolin",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 564,
     "timeDay": 610,
     "timeWeek": 564,
     "timeMonth": 564,
     "timeYear": 564,
-    "dailyMinutesDown": {
-      "2026-06-08": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "headscale",
@@ -45,7 +43,7 @@
     "status": "up",
     "uptime": "65.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.94%",
+    "uptimeWeek": "76.98%",
     "uptimeMonth": "56.75%",
     "uptimeYear": "65.52%",
     "time": 453,
@@ -78,20 +76,21 @@
     "url": "$HEADPLANE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headplane",
-    "status": "down",
-    "uptime": "95.56%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "95.56%",
-    "uptimeYear": "95.56%",
+    "status": "up",
+    "uptime": "95.51%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "95.51%",
     "time": 515,
-    "timeDay": 517,
+    "timeDay": 520,
     "timeWeek": 515,
     "timeMonth": 515,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2026-06-03": 344,
-      "2026-06-08": 0
+      "2026-06-09": 0,
+      "2026-06-08": 4
     }
   },
   {
@@ -137,20 +136,21 @@
     "url": "$BESZEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
-    "time": 1079,
-    "timeDay": 1100,
-    "timeWeek": 1079,
-    "timeMonth": 1079,
-    "timeYear": 1079,
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
+    "time": 1081,
+    "timeDay": 1107,
+    "timeWeek": 1081,
+    "timeMonth": 1081,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2026-06-04": 74,
-      "2026-06-08": 0
+      "2026-06-09": 0,
+      "2026-06-08": 4
     }
   }
 ]
