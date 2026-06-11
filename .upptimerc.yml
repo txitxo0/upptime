@@ -7,6 +7,11 @@ sites:
     url: $HA_DUCKDNS
   - name: ha_pangolin
     url: $HA_PANGOLIN
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 405
   - name: headscale
     url: $HEADSCALE
   - name: headplane
@@ -26,6 +31,9 @@ sites:
     url: $IMMICH
   - name: monitor
     url: $BESZEL
+    expectedStatusCodes:
+      - 200
+      - 302
 
 assignees:
   - txitxo0
