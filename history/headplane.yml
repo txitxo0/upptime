@@ -1,7 +1,7 @@
 url: $HEADPLANE
-status: down
-code: 403
-responseTime: 277
-lastUpdated: 2026-06-12T05:25:22.627Z
+status: up
+code: 200
+responseTime: 471
+lastUpdated: 2026-06-12T05:30:10.944Z
 startTime: 2026-06-03T14:40:47.452Z
 generator: Upptime <https://github.com/upptime/upptime>
