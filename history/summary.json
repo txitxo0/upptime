@@ -79,20 +79,20 @@
     "url": "$HEADPLANE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headplane",
-    "status": "down",
-    "uptime": "97.22%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.22%",
-    "uptimeYear": "97.22%",
+    "status": "up",
+    "uptime": "97.19%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.19%",
     "time": 517,
-    "timeDay": 534,
-    "timeWeek": 519,
+    "timeDay": 532,
+    "timeWeek": 518,
     "timeMonth": 517,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2026-06-03": 344,
-      "2026-06-12": 0
+      "2026-06-12": 5
     }
   },
   {
@@ -138,20 +138,20 @@
     "url": "$BESZEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 1133,
-    "timeDay": 1090,
-    "timeWeek": 1142,
-    "timeMonth": 1133,
-    "timeYear": 1133,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
+    "time": 1134,
+    "timeDay": 1097,
+    "timeWeek": 1143,
+    "timeMonth": 1134,
+    "timeYear": 1134,
     "dailyMinutesDown": {
       "2026-06-04": 74,
-      "2026-06-12": 0
+      "2026-06-12": 5
     }
   }
 ]
