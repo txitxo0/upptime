@@ -22,12 +22,12 @@
     "url": "$HA_PANGOLIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha-pangolin",
-    "status": "up",
-    "uptime": "97.48%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "95.48%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "97.48%",
+    "status": "down",
+    "uptime": "97.30%",
+    "uptimeDay": "87.73%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "97.30%",
     "time": 584,
     "timeDay": 644,
     "timeWeek": 607,
@@ -40,7 +40,7 @@
       "2026-06-16": 276,
       "2026-06-19": 54,
       "2026-06-22": 101,
-      "2026-06-23": 24
+      "2026-06-23": 76
     }
   },
   {
@@ -48,17 +48,17 @@
     "url": "$HEADSCALE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headscale",
-    "status": "down",
-    "uptime": "73.92%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.52%",
+    "status": "up",
+    "uptime": "73.88%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "62.21%",
-    "uptimeYear": "73.92%",
-    "time": 448,
-    "timeDay": 444,
-    "timeWeek": 495,
-    "timeMonth": 456,
-    "timeYear": 448,
+    "uptimeYear": "73.88%",
+    "time": 446,
+    "timeDay": 381,
+    "timeWeek": 477,
+    "timeMonth": 451,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2026-04-27": 642,
       "2026-04-26": 1440,
@@ -79,7 +79,7 @@
       "2026-05-21": 787,
       "2026-06-12": 158,
       "2026-06-16": 28,
-      "2026-06-23": 20
+      "2026-06-23": 69
     }
   },
   {
@@ -88,11 +88,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headplane",
     "status": "down",
-    "uptime": "96.27%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "96.21%",
-    "uptimeMonth": "96.27%",
-    "uptimeYear": "96.27%",
+    "uptime": "96.09%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "95.71%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "96.09%",
     "time": 516,
     "timeDay": 601,
     "timeWeek": 726,
@@ -103,7 +103,7 @@
       "2026-06-12": 330,
       "2026-06-16": 281,
       "2026-06-17": 86,
-      "2026-06-23": 15
+      "2026-06-23": 66
     }
   },
   {
@@ -112,11 +112,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emby",
     "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "95.73%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
+    "uptime": "97.39%",
+    "uptimeDay": "88.77%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "97.39%",
+    "uptimeYear": "97.39%",
     "time": 1087,
     "timeDay": 1259,
     "timeWeek": 1176,
@@ -128,7 +128,7 @@
       "2026-06-16": 267,
       "2026-06-19": 53,
       "2026-06-22": 101,
-      "2026-06-23": 10
+      "2026-06-23": 61
     }
   },
   {
@@ -137,11 +137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "97.82%",
-    "uptimeDay": "92.68%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "97.82%",
+    "uptime": "97.65%",
+    "uptimeDay": "89.13%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
     "time": 544,
     "timeDay": 573,
     "timeWeek": 592,
@@ -152,7 +152,7 @@
       "2026-06-16": 286,
       "2026-06-19": 53,
       "2026-06-22": 100,
-      "2026-06-23": 5
+      "2026-06-23": 56
     }
   },
   {
@@ -160,23 +160,23 @@
     "url": "$BESZEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor",
-    "status": "down",
-    "uptime": "97.21%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "96.50%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "97.21%",
-    "time": 1172,
-    "timeDay": 625,
-    "timeWeek": 2151,
-    "timeMonth": 1172,
-    "timeYear": 1172,
+    "status": "up",
+    "uptime": "97.03%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "97.03%",
+    "time": 1171,
+    "timeDay": 677,
+    "timeWeek": 2053,
+    "timeMonth": 1171,
+    "timeYear": 1171,
     "dailyMinutesDown": {
       "2026-06-04": 74,
       "2026-06-12": 330,
       "2026-06-16": 266,
       "2026-06-17": 86,
-      "2026-06-23": 0
+      "2026-06-23": 51
     }
   }
 ]
