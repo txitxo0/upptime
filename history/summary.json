@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha-pangolin",
     "status": "up",
-    "uptime": "97.56%",
-    "uptimeDay": "92.99%",
-    "uptimeWeek": "95.72%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.56%",
+    "uptime": "97.48%",
+    "uptimeDay": "91.29%",
+    "uptimeWeek": "95.48%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "97.48%",
     "time": 584,
     "timeDay": 644,
     "timeWeek": 607,
@@ -39,7 +39,8 @@
       "2026-06-12": 172,
       "2026-06-16": 276,
       "2026-06-19": 54,
-      "2026-06-22": 101
+      "2026-06-22": 101,
+      "2026-06-23": 24
     }
   },
   {
@@ -47,12 +48,12 @@
     "url": "$HEADSCALE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headscale",
-    "status": "up",
-    "uptime": "73.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "61.98%",
-    "uptimeYear": "73.91%",
+    "status": "down",
+    "uptime": "73.92%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "62.21%",
+    "uptimeYear": "73.92%",
     "time": 448,
     "timeDay": 444,
     "timeWeek": 495,
@@ -77,7 +78,8 @@
       "2026-05-22": 1440,
       "2026-05-21": 787,
       "2026-06-12": 158,
-      "2026-06-16": 28
+      "2026-06-16": 28,
+      "2026-06-23": 20
     }
   },
   {
@@ -85,12 +87,12 @@
     "url": "$HEADPLANE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headplane",
-    "status": "up",
-    "uptime": "96.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "96.30%",
-    "uptimeYear": "96.30%",
+    "status": "down",
+    "uptime": "96.27%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "96.27%",
     "time": 516,
     "timeDay": 601,
     "timeWeek": 726,
@@ -100,7 +102,8 @@
       "2026-06-03": 344,
       "2026-06-12": 330,
       "2026-06-16": 281,
-      "2026-06-17": 86
+      "2026-06-17": 86,
+      "2026-06-23": 15
     }
   },
   {
@@ -108,12 +111,12 @@
     "url": "$EMBY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emby",
-    "status": "up",
-    "uptime": "97.59%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "97.59%",
+    "status": "down",
+    "uptime": "97.57%",
+    "uptimeDay": "92.33%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "97.57%",
+    "uptimeYear": "97.57%",
     "time": 1087,
     "timeDay": 1259,
     "timeWeek": 1176,
@@ -124,7 +127,8 @@
       "2026-06-12": 172,
       "2026-06-16": 267,
       "2026-06-19": 53,
-      "2026-06-22": 101
+      "2026-06-22": 101,
+      "2026-06-23": 10
     }
   },
   {
@@ -132,12 +136,12 @@
     "url": "$IMMICH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "93.03%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "97.83%",
+    "status": "down",
+    "uptime": "97.82%",
+    "uptimeDay": "92.68%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "97.82%",
     "time": 544,
     "timeDay": 573,
     "timeWeek": 592,
@@ -147,7 +151,8 @@
       "2026-06-12": 172,
       "2026-06-16": 286,
       "2026-06-19": 53,
-      "2026-06-22": 100
+      "2026-06-22": 100,
+      "2026-06-23": 5
     }
   },
   {
@@ -155,12 +160,12 @@
     "url": "$BESZEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor",
-    "status": "up",
-    "uptime": "97.20%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.21%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.50%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "97.20%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "97.21%",
     "time": 1172,
     "timeDay": 625,
     "timeWeek": 2151,
@@ -170,7 +175,8 @@
       "2026-06-04": 74,
       "2026-06-12": 330,
       "2026-06-16": 266,
-      "2026-06-17": 86
+      "2026-06-17": 86,
+      "2026-06-23": 0
     }
   }
 ]
