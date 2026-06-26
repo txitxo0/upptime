@@ -22,12 +22,12 @@
     "url": "$HA_PANGOLIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha-pangolin",
-    "status": "up",
-    "uptime": "97.40%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "97.40%",
-    "uptimeYear": "97.40%",
+    "status": "down",
+    "uptime": "97.34%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 584,
     "timeDay": 752,
     "timeWeek": 570,
@@ -42,7 +42,7 @@
       "2026-06-22": 101,
       "2026-06-23": 123,
       "2026-06-24": 40,
-      "2026-06-26": 1
+      "2026-06-26": 22
     }
   },
   {
@@ -51,11 +51,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headscale",
     "status": "up",
-    "uptime": "75.23%",
+    "uptime": "75.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
-    "uptimeMonth": "72.43%",
-    "uptimeYear": "75.23%",
+    "uptimeMonth": "72.48%",
+    "uptimeYear": "75.24%",
     "time": 443,
     "timeDay": 292,
     "timeWeek": 421,
@@ -89,17 +89,17 @@
     "url": "$HEADPLANE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "headplane",
-    "status": "down",
-    "uptime": "96.28%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "96.28%",
-    "uptimeYear": "96.28%",
-    "time": 528,
-    "timeDay": 914,
-    "timeWeek": 822,
-    "timeMonth": 528,
-    "timeYear": 528,
+    "status": "up",
+    "uptime": "96.22%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "96.22%",
+    "uptimeYear": "96.22%",
+    "time": 527,
+    "timeDay": 710,
+    "timeWeek": 802,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2026-06-03": 344,
       "2026-06-12": 330,
@@ -107,7 +107,7 @@
       "2026-06-17": 86,
       "2026-06-23": 118,
       "2026-06-24": 60,
-      "2026-06-26": 1
+      "2026-06-26": 21
     }
   },
   {
@@ -116,11 +116,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emby",
     "status": "down",
-    "uptime": "97.47%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "97.47%",
-    "uptimeYear": "97.47%",
+    "uptime": "97.41%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "97.41%",
     "time": 1118,
     "timeDay": 1405,
     "timeWeek": 1219,
@@ -134,7 +134,7 @@
       "2026-06-22": 101,
       "2026-06-23": 110,
       "2026-06-24": 40,
-      "2026-06-26": 1
+      "2026-06-26": 22
     }
   },
   {
@@ -143,11 +143,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "97.70%",
+    "uptime": "97.63%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "97.63%",
+    "uptimeYear": "97.63%",
     "time": 539,
     "timeDay": 491,
     "timeWeek": 561,
@@ -160,7 +160,7 @@
       "2026-06-22": 100,
       "2026-06-23": 106,
       "2026-06-24": 40,
-      "2026-06-26": 0
+      "2026-06-26": 22
     }
   },
   {
@@ -168,17 +168,17 @@
     "url": "$BESZEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "97.26%",
-    "time": 1147,
-    "timeDay": 414,
-    "timeWeek": 505,
-    "timeMonth": 1147,
-    "timeYear": 1147,
+    "status": "up",
+    "uptime": "97.20%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "97.20%",
+    "time": 1145,
+    "timeDay": 418,
+    "timeWeek": 500,
+    "timeMonth": 1145,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2026-06-04": 74,
       "2026-06-12": 330,
@@ -186,7 +186,7 @@
       "2026-06-17": 86,
       "2026-06-23": 51,
       "2026-06-24": 59,
-      "2026-06-26": 0
+      "2026-06-26": 21
     }
   }
 ]
