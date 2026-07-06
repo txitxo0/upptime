@@ -1,7 +1,7 @@
 url: $HA_DUCKDNS
-status: down
-code: 502
-responseTime: 278
-lastUpdated: 2026-07-06T13:50:22.639Z
+status: up
+code: 200
+responseTime: 494
+lastUpdated: 2026-07-06T13:55:15.894Z
 startTime: 2026-06-03T14:40:32.446Z
 generator: Upptime <https://github.com/upptime/upptime>
