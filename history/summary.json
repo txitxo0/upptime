@@ -24,9 +24,9 @@
     "slug": "ha-pangolin",
     "status": "down",
     "uptime": "98.03%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "97.77%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "97.76%",
     "uptimeYear": "98.03%",
     "time": 581,
     "timeDay": 464,
@@ -44,7 +44,7 @@
       "2026-06-24": 40,
       "2026-06-26": 41,
       "2026-07-07": 85,
-      "2026-07-08": 0
+      "2026-07-08": 3
     }
   },
   {
