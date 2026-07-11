@@ -1,7 +1,7 @@
 url: $EMBY
-status: up
-code: 200
-responseTime: 1269
-lastUpdated: 2026-07-10T23:55:19.462Z
+status: down
+code: 503
+responseTime: 392
+lastUpdated: 2026-07-11T06:35:50.373Z
 startTime: 2026-06-03T14:41:07.055Z
 generator: Upptime <https://github.com/upptime/upptime>
