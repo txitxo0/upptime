@@ -5,19 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha-duckdns",
     "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "99.03%",
-    "time": 2260,
-    "timeDay": 726,
-    "timeWeek": 2383,
-    "timeMonth": 1814,
-    "timeYear": 2260,
+    "uptime": "99.02%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "94.35%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.02%",
+    "time": 2293,
+    "timeDay": 2453,
+    "timeWeek": 2546,
+    "timeMonth": 1869,
+    "timeYear": 2293,
     "dailyMinutesDown": {
       "2026-07-09": 565,
-      "2026-07-14": 0
+      "2026-07-14": 4
     }
   },
   {
