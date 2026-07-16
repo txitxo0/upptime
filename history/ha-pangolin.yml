@@ -1,7 +1,7 @@
 url: $HA_PANGOLIN
-status: down
-code: 503
-responseTime: 446
-lastUpdated: 2026-07-16T06:10:22.532Z
+status: up
+code: 200
+responseTime: 643
+lastUpdated: 2026-07-16T06:15:26.797Z
 startTime: 2026-06-03T14:40:45.913Z
 generator: Upptime <https://github.com/upptime/upptime>
