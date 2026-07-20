@@ -24,17 +24,17 @@
     "url": "$HA_PANGOLIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha-pangolin",
-    "status": "up",
+    "status": "down",
     "uptime": "98.09%",
-    "uptimeDay": "86.56%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "86.88%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "98.09%",
-    "time": 587,
+    "time": 586,
     "timeDay": 604,
-    "timeWeek": 607,
+    "timeWeek": 606,
     "timeMonth": 589,
-    "timeYear": 587,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2026-06-09": 20,
       "2026-06-10": 65,
@@ -50,7 +50,7 @@
       "2026-07-10": 50,
       "2026-07-16": 30,
       "2026-07-19": 119,
-      "2026-07-20": 95
+      "2026-07-20": 90
     }
   },
   {
