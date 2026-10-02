@@ -123,15 +123,15 @@
     "url": "$EMBY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emby",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.50%",
     "time": 1136,
-    "timeDay": 933,
-    "timeWeek": 1033,
+    "timeDay": 1002,
+    "timeWeek": 1045,
     "timeMonth": 1158,
     "timeYear": 1136,
     "dailyMinutesDown": {
@@ -143,7 +143,7 @@
       "2026-06-23": 110,
       "2026-06-24": 40,
       "2026-06-26": 41,
-      "2026-10-02": 0
+      "2026-10-02": 5
     }
   },
   {
@@ -151,16 +151,16 @@
     "url": "$IMMICH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.54%",
     "time": 606,
-    "timeDay": 822,
-    "timeWeek": 643,
-    "timeMonth": 658,
+    "timeDay": 759,
+    "timeWeek": 642,
+    "timeMonth": 657,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2026-06-12": 172,
@@ -170,7 +170,7 @@
       "2026-06-23": 106,
       "2026-06-24": 40,
       "2026-06-26": 41,
-      "2026-10-02": 0
+      "2026-10-02": 5
     }
   },
   {
