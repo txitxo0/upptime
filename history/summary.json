@@ -125,17 +125,17 @@
     "url": "$EMBY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emby",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.59%",
-    "time": 1144,
-    "timeDay": 793,
-    "timeWeek": 1016,
-    "timeMonth": 1155,
-    "timeYear": 1144,
+    "time": 1143,
+    "timeDay": 842,
+    "timeWeek": 1008,
+    "timeMonth": 1149,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2026-06-04": 86,
       "2026-06-12": 172,
@@ -145,7 +145,7 @@
       "2026-06-23": 110,
       "2026-06-24": 40,
       "2026-06-26": 41,
-      "2026-10-28": 1
+      "2026-10-28": 4
     }
   },
   {
@@ -153,17 +153,17 @@
     "url": "$IMMICH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "85.74%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "85.48%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.53%",
-    "time": 671,
-    "timeDay": 483,
-    "timeWeek": 547,
-    "timeMonth": 966,
-    "timeYear": 671,
+    "time": 672,
+    "timeDay": 547,
+    "timeWeek": 570,
+    "timeMonth": 961,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2026-06-12": 172,
       "2026-06-16": 286,
@@ -172,7 +172,7 @@
       "2026-06-23": 106,
       "2026-06-24": 40,
       "2026-06-26": 41,
-      "2026-10-28": 205
+      "2026-10-28": 209
     }
   },
   {
